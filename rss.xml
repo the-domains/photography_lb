@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photography_LB]]></title>
         <description><![CDATA[Photography_LB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photography_lb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:45:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 01:45:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photography_lb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://drscdn.500px.org/photo/89425903/m%3D900/442fc9fc1dd41d1c4202d6698ba50223">]]></description>
+            <link>https://thegrid.ai/photography_lb/33bdb4ed-1d62-42cc-935d-7032a34e7168/index.html</link>
+            <guid isPermaLink="false">33bdb4ed-1d62-42cc-935d-7032a34e7168</guid>
+            <pubDate>Thu, 21 Apr 2016 01:44:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://drscdn.500px.org/photo/120414737/m%3D900/8a1b0081f54ffed5266e29ab56c2365c">]]></description>
-            <link>undefined76c0e705-b111-4174-9367-583b3091eb8b/index.html</link>
+            <link>https://thegrid.ai/photography_lb/76c0e705-b111-4174-9367-583b3091eb8b/index.html</link>
             <guid isPermaLink="false">76c0e705-b111-4174-9367-583b3091eb8b</guid>
             <pubDate>Thu, 21 Apr 2016 01:44:46 GMT</pubDate>
         </item>
