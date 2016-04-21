@@ -1,4 +1,4 @@
-name: Photography_LB
+name: Lyle Baer Photography
 favicon: null
 layout_spectrum: 0.25683
 typography_spectrum: 0.88993
@@ -22,7 +22,7 @@ color:
     - '#4678cb'
     - '#dcd6c2'
     - '#23314e'
-  brandStrength: 0
+  brandStrength: 0.0625
   lightness: 0.5
   saturation: 0.875
   rhythmicContrast: 0
